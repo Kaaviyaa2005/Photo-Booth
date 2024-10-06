@@ -1,4 +1,4 @@
-Photo Booth
+#Photo Booth
 Welcome to the Photo Booth project! Capture, personalize, and share unforgettable moments effortlessly. This repository offers a user-friendly photo booth application that is perfect for events, parties, or just plain fun!
 
 🎨 Features
